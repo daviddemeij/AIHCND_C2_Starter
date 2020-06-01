@@ -91,7 +91,7 @@ In this project, you will fine-tune an existing CNN architecture to classify x-r
 
 **Image Pre-Processing and Augmentation** 
 
-You may choose or need to do some amount of preprocessing prior to feeding imagees into your network for training and validating. This may serve the purpose of conforming to your model's architecture and/or for the purposes of augmenting your training dataset for increasing your model performance. When performing image augmentation, be sure to think about augmentation parameters that reflect real-world differences that may be seen in chest X-rays. 
+You may choose or need to do some amount of preprocessing prior to feeding images into your network for training and validating. This may serve the purpose of conforming to your model's architecture and/or for the purposes of augmenting your training dataset for increasing your model performance. When performing image augmentation, be sure to think about augmentation parameters that reflect real-world differences that may be seen in chest X-rays. 
 
 **Training** 
 
